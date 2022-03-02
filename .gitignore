@@ -1,0 +1,11 @@
+
+*.dll
+
+/CustomerWebAPI/fonts
+
+/CustomerWebAPI/obj
+/CustomerWebAPI/bin
+/CustomerWebAPI/packages
+/CustomerWebAPI/Content
+/CustomerWebAPI/Scripts
+/CustomerWebAPI/Areas
